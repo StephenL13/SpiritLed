@@ -10,7 +10,7 @@ module.exports.run = async(client, message, args, prefix) => {
   await message.channel.send({ embeds: [embed] })
 }
 
-module.exports.help = {
+module.exports.command = {
   name: "help",
   aliases: []
 }
