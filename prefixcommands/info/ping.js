@@ -6,7 +6,7 @@ module.exports.run = async(client, message, args, prefix) => {
       .setColor(profileColor)
       .setFooter({ text: defaultFooter })
       .setTimestamp()
-    message.channel.send({ embeds: [embed] })
+    await message.channel.send({ embeds: [embed] })
 }
 
 module.exports.command = {
