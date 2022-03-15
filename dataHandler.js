@@ -10,7 +10,7 @@ async function createCmd(client, guildId) {
         },
         {
             name: "quote",
-            description: "Randomly generated Christian quotes from well-known preachers, pastors, theologians, and figures who affirm to the Gospel"
+            description: "Randomly generated Christian quotes"
         }
     ]
     
