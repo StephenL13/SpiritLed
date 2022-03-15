@@ -16,6 +16,6 @@ module.exports.run = async(client, interaction) => {
     await interaction.reply({ embeds: [embed] })
 }
 
-module.exports.help = {
+module.exports.command = {
     name: "quote"
 }
