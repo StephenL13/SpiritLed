@@ -1,6 +1,10 @@
 {
     "Quotes": [
       {
+        "q":"There is no one who is insignificant in the purpose of God.",
+        "a":"Alistair Begg", "authorImg": "https://www.familylife.com/wp-content/uploads/sites/51/2021/05/Alistair_Begg2.jpg"
+      },
+      {
         "q": "The nature of Christ's salvation is woefully misrepresented by the present-day “evangelist.” He announces a Savior from hell rather than the Savior from sin. And that is why so many are faithfully deceived, for there are multitudes who wish to escape the lake of fire, who have no desire to be delivered from their carnality and worldliness.",
         "a": "A.W. Pink",
         "authorImg": "https://voltemosaoevangelho.com/blog/wp-content/uploads/2014/09/A.-W.-Pink_avatar_1410785925.jpg"
@@ -49,6 +53,10 @@
         "a": "Bruce Metzger", "authorImg": "http://4.bp.blogspot.com/_BMoXxC2XKIA/RdZLTI_XI9I/AAAAAAAAAd4/ViHViW0W6wc/s320/metzger1.jpg"
       },
       {
+        "q": "God insists that we ask, not because He needs to know our situation, but because we need the spiritual discipline of asking.",
+        "a": "Catherine Marshall", "authorImg": "https://ap-pics2.gotpoem.com/ap-pics/user/5912/577big.jpg?CatherineMarshalljp"
+      },
+      {
         "q": "You have never truly found Jesus if you do not tell others about Him.",
         "a": "Charles Spurgeon", "authorImg": "https://lucidbookspublishing.com/wp-content/uploads/2016/02/7-Writing-Tips-from-Charles-Spurgeon.jpg"
       },
@@ -59,10 +67,6 @@
       {
         "q": "Revivals, if genuine, don't always come the moment you whistle for them.",
         "a": "Charles Spurgeon", "authorImg": "https://lucidbookspublishing.com/wp-content/uploads/2016/02/7-Writing-Tips-from-Charles-Spurgeon.jpg"
-      },
-      {
-        "q": "The important thing to remember is repentance is the prelude to revival. The Church must first repent.",
-        "a": "J. Edwin Orr", "authorImg": "https://www.inspiringquotes.us/data/image/2017/10/d/1437-j-edwin-orr.jpg"
       },
       {
         "q": "So live for the kingdom of God. Seek to bring glory to Jesus Christ and the Lord will use you. It is my prayer, my constant and daily prayer, that God would keep me useable.",
@@ -89,6 +93,38 @@
         "a": "Dietrich Boenhoeffer", "authorImg": "https://www.thefamouspeople.com/profiles/images/dietrich-bonhoeffer-4.jpg"
       },
       {
+        "q": "Satan rules all men that are in his kingdom. Some he rules through lust. Some he rules through covetousness. Some he rules through appetite. Some he rules by their temper, but he rules them. And none will ever seek to be delivered until they get their eyes open and see that they have been taken captive.",
+        "a": "Dwight L. Moody", "authorImg": "https://marvel-b1-cdn.bc0a.com/f00000000231931/www.moody.edu/siteassets/website_assets/images/about/d.l.-moody/new-page/moody.jpg"
+      },
+      {
+        "q": "The Bible tells us to love out neighbors, and also to love our enemies; probably because they are generally the same people.",
+        "a": "G.K. Chesterton", "authorImg": "https://cdn.britannica.com/74/78674-050-0982A0AD/GK-Chesterton.jpg"
+      },
+      {
+        "q": "Jesus promised his disciples three things-- that they would be completely fearless, absurdly happy, and in constant trouble.",
+        "a": "G.K. Chesterton", "authorImg": "https://cdn.britannica.com/74/78674-050-0982A0AD/GK-Chesterton.jpg"
+      },
+      {
+        "q": "Just going to church doesn't make you a Christian any more than standing in your garage makes you a car.",
+        "a": "G.K. Chesterton", "authorImg": "https://cdn.britannica.com/74/78674-050-0982A0AD/GK-Chesterton.jpg"
+      },
+      {
+        "q":"Disciples are learners. As disciples of Jesus we are called to the lifelong adventure of learning to follow Him closely and faithfully.",
+        "a": "Harold Percy", "authorImg": "https://www.flameconference.ca/UserFiles/Image/toronto/2013/rev-harold-percy.jpg"
+      },
+      {
+        "q": "Be very sure of this -- people never reject the Bible because they cannot understand it. They understand it too well; they understand that it condemns their own behavior; they understand that it witnesses against their own sins, and summons them to judgement, they try to believe it is false and useless, because they don't like to believe it is true.",
+        "a": "J. C. Ryle", "authorImg": "https://3r98nw2w9uto3s66qn2k1ho2-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2013/05/RYLE-JC_21-685x1024.jpg"
+      },
+      {
+        "q": "The important thing to remember is repentance is the prelude to revival. The Church must first repent.",
+        "a": "J. Edwin Orr", "authorImg": "https://www.inspiringquotes.us/data/image/2017/10/d/1437-j-edwin-orr.jpg"
+      },
+      {
+        "q": "When Scripture calls God, or individual persons of the Godhead, “holy” . . . the word signifies everything about God that sets him apart from us and makes him an object of awe, adoration, and dread to us. It covers all aspects of his transcendent greatness and moral perfection and thus is an attribute of all his attributes, pointing to the “Godness” of God at every point.",
+        "a":"J.I. Packer", "authorImg":"https://garyrohrmayer.typepad.com/.a/6a00d83452d9dd69e201b7c78eb669970b-pi"
+      },
+      {
         "q": "Pray often, for prayer is a shield to the soul, a sacrifice to God, and a scourge for Satan.",
         "a": "John Bunyan", "authorImg": "https://banneroftruth.org/us/wp-content/uploads/sites/2/2013/05/BUNYAN-John-Sadler_detail.jpg"
       },
@@ -109,8 +145,20 @@
         "a": "John MacArthur", "authorImg": "https://www.gty.org/assets/_gty/img/truth-matters/john-macarthur.jpg" 
       },
       {
+        "q":"Life is wasted if we do not grasp the glory of the cross, cherish it for the treasure that it is, and cleave to it as the highest price of every pleasure and the deepest comfort in every pain. What was once foolishness to us --  a crucified God -- must become our wisdom and our power and our only boast in this world.",
+        "a":"John Piper", "authorImg": "https://pbs.twimg.com/profile_images/1269457942316802050/8o7_3RXz_400x400.jpg"
+      },
+      {
+        "q":"The greatest enemy of hunger for God is not poison, but apple pie. It is not the banquet of the wicked that dulls our appetite for heaven, but endless nibbling at the table of the world. It is not X-rated video, but the prime-time dribble of triviality we drink in every night… The greatest adversary of love to God is not His enemies but His gifts. The weakness of our hunger for God is not because He is unsavory, but because we keep ourselves stuffed with other things.",
+        "a":"John Piper", "authorImg": "https://pbs.twimg.com/profile_images/1269457942316802050/8o7_3RXz_400x400.jpg"
+      },
+      {
         "q": "The Church is supposed to go out and change the world. Instead, the world has come in and changed the Church.",
         "a": "Leonard Ravenhill", "authorImg": "https://www.shadesofgrace.org/wp-content/uploads/Leonard-Ravenhill1.jpg"
+      },
+      {
+        "q":"If you do not desire to be holy I do not see that you have any right to think that you are a Christian.",
+        "a": "Dr. Martin Lloyd-Jones", "authorImg": "https://www.xl6.com/images/auteurs/grandes/martyn-lloyd-jones.jpg"
       },
       {
         "q": "Do we go to God’s house expecting something to happen? Or do we go just to listen to a sermon, and to sing our hymns, and to meet with one another? How often does this vital idea enter into our minds that we are in the presence of the living God, that the Holy Spirit is in the church, that we may feel the touch of his power? How much do we think in terms of coming together to meet with God, and to worship him, and to stand before him, and to listen to him? Is there not this appalling danger that we are just content because we have correct beliefs? And we have lost the life, the vital thing, the power, the thing that really makes worship worship, which is in Spirit and truth.",
@@ -132,6 +180,18 @@
         "q": "The center of salvation is the cross of Jesus, and the reason it is so easy to obtain salvation is because it cost God so much.",
         "a": "Oswald Chambers", "authorImg": "http://media-cache-ak0.pinimg.com/736x/14/da/d0/14dad08d2392e5cde5261358c60f40b3.jpg"
       }, 
+      {
+        "q": "The point of prayer is not to get answers from God, but to have perfect and complete oneness with Him.",
+        "a": "Oswald Chambers", "authorImg": "http://media-cache-ak0.pinimg.com/736x/14/da/d0/14dad08d2392e5cde5261358c60f40b3.jpg"
+      }, 
+      {
+        "q": "Faith is deliberate confidence in the character of god whose ways you may not understand at the time.",
+        "a": "Oswald Chambers", "authorImg": "http://media-cache-ak0.pinimg.com/736x/14/da/d0/14dad08d2392e5cde5261358c60f40b3.jpg"
+      },
+      {
+        "q": "Our daily Bible readings are often forgotten the moment we rise, but in time they form in us a deep and lasting reservoir of true spirituality.",
+        "a": "Paul Washer", "authorImg":"https://s3.amazonaws.com/static.gracechurch.org/images/leaders/washer-paul.jpg"
+      },
       {
         "q": "If I want to identify fully with Jesus Christ who I claim to be my Savior and Lord then the best way I can do that is to identify with the poor. Christianity is not about building an absolutely secure little niche in this world where you can live with your perfect little wife and your perfect little children in a beautiful little house, where you have no gays or minority groups anywhere near you. Christianity is about learning to love like Jesus loved and Jesus loved the poor and Jesus loved the broken.",
         "a": "Rich Mullins", "authorImg": "https://wp-media.patheos.com/blogs/sites/1125/2019/04/rich-mullins-03-368x368-300x300.jpg"
