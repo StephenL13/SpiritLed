@@ -1,6 +1,10 @@
 {
     "Quotes": [
       {
+        "q":"No church will ever grow and prosper and be a New Testament church until the pulpit is central and the Gospel is central in the pulpit.",
+        "a":"Adrian Rogers","authorImg": "https://media.salemwebnetwork.com/sermonsearch/contributors/rogers.jpg"
+      },
+      {
         "q":"There is no one who is insignificant in the purpose of God.",
         "a":"Alistair Begg", "authorImg": "https://www.familylife.com/wp-content/uploads/sites/51/2021/05/Alistair_Begg2.jpg"
       },
@@ -89,12 +93,24 @@
         "a": "Dawson Trotman", "authorImg": "https://images.gr-assets.com/authors/1275844333p5/588525.jpg"
       },
       {
+        "q": "The wonderful thing about praying is that you leave a world of not being able to do something, and enter God's realm where evething is possible. He specializes the impossible. Nothing is too great for His almighty power, Nothing is too small for His love.",
+        "a": "Corrie Ten Boom", "authorImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/CorrieTenBoom.jpg/170px-CorrieTenBoom.jpg"
+      },
+      {
+        "q": "Forgiveness is the key which unlocke the door of resentment and the handcuffs of hatred. It breaks the chains of bitternes and the shackles of selfishness. The forgiveness of Jesus not only takes away our sin, it makes them as if they had never been.",
+        "a": "Corrie Ten Boom", "authorImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/CorrieTenBoom.jpg/170px-CorrieTenBoom.jpg"
+      },
+      {
         "q": "The pursuit of purity is not about the suppression of lust, but about the reorientation of one's life to a larger goal.",
         "a": "Dietrich Boenhoeffer", "authorImg": "https://www.thefamouspeople.com/profiles/images/dietrich-bonhoeffer-4.jpg"
       },
       {
         "q": "Satan rules all men that are in his kingdom. Some he rules through lust. Some he rules through covetousness. Some he rules through appetite. Some he rules by their temper, but he rules them. And none will ever seek to be delivered until they get their eyes open and see that they have been taken captive.",
         "a": "Dwight L. Moody", "authorImg": "https://marvel-b1-cdn.bc0a.com/f00000000231931/www.moody.edu/siteassets/website_assets/images/about/d.l.-moody/new-page/moody.jpg"
+      },
+      {
+        "q":"The Word of God I think of as a straight edge, which shows up our own crookedness. We can’t really tell how crooked our thinking is until we line it up with the straight edge of Scripture.",
+        "a":"Elisabeth Elliot", "authorImg": "https://www.radiusinternational.org/wp-content/uploads/2021/03/ElisabethElliot-e1617233385940-750x675.jpeg"
       },
       {
         "q": "The Bible tells us to love out neighbors, and also to love our enemies; probably because they are generally the same people.",
@@ -107,6 +123,10 @@
       {
         "q": "Just going to church doesn't make you a Christian any more than standing in your garage makes you a car.",
         "a": "G.K. Chesterton", "authorImg": "https://cdn.britannica.com/74/78674-050-0982A0AD/GK-Chesterton.jpg"
+      },
+      {
+        "q": "Put your nose into the Bible everyday. It is your spiritual food. And then share it. Make a vow not to be a lukewarm Christian.",
+        "a": "Kirk Cameron", "authorImg": "https://images.mubicdn.net/images/cast_member/49254/cache-246013-1502585558/image-w856.jpg?size=800x"
       },
       {
         "q":"Disciples are learners. As disciples of Jesus we are called to the lifelong adventure of learning to follow Him closely and faithfully.",
@@ -123,6 +143,10 @@
       {
         "q": "When Scripture calls God, or individual persons of the Godhead, “holy” . . . the word signifies everything about God that sets him apart from us and makes him an object of awe, adoration, and dread to us. It covers all aspects of his transcendent greatness and moral perfection and thus is an attribute of all his attributes, pointing to the “Godness” of God at every point.",
         "a":"J.I. Packer", "authorImg":"https://garyrohrmayer.typepad.com/.a/6a00d83452d9dd69e201b7c78eb669970b-pi"
+      },
+      {
+        "q": "The Bible contains the most profound philosophy, the most perfect morality, and the most refined policy that ever was conceived upon earth.",
+        "a": "John Adams", "authorImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg/1200px-Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg"
       },
       {
         "q": "Pray often, for prayer is a shield to the soul, a sacrifice to God, and a scourge for Satan.",
@@ -203,6 +227,10 @@
       {
         "q": "It is misleading to say that God accepts us the way we are. Rather he accepts us despite the way we are. He receives us only in Christ and for Christ's sake. Nor does he mean to leave us the way he found us, but to transform us into the likeness of His Son.",
         "a": "Sinclair Ferguson", "authorImg": "https://yankeetv.com/wiki/wp-content/uploads/2021/04/Sinclair-Ferguson.jpg"
+      },
+      {
+        "q":"This is the secret to victorious life: we do nothing; He does it all. When we cease, He flows out. The more we cease, the greater He flows.",
+        "a":"Watchman Nee", "authorImg": "https://contendingforthefaith.org/images/people/watchman_nee.jpg"
       },
       {
         "q": "Contextually, John 3:16 is asserting a relatively unusual notion that God not only loves those who follow him but he actually loves the entire world.",
